@@ -1,0 +1,8 @@
+{
+  "name": "AeroResolve - Airline Disruption Resolution Agent",
+  "description": "Autonomous customer-facing resolution agent for airline disruptions with policy enforcement, guardrails, audit logging, and structured ticket creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
